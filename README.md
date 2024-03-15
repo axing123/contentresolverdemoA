@@ -1,0 +1,1 @@
+#这是客户端demo， 使用contentresolve来读取另外一个demo（contentproviderdemoA）中asset目录下的 json文件
